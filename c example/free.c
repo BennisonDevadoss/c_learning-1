@@ -12,6 +12,6 @@ int main()
 {
     int *ptr;
     ptr=(void*)malloc(sizeof(ptr));
-    printf("");
+    printf(" ");
     
 }

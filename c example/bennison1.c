@@ -23,3 +23,4 @@ int main()
     int(*p)[3] = number;
     printf("address of p is:%p", &p);
 }
+//........................................
